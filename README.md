@@ -1,7 +1,7 @@
 # Quiz-Ruby
 A simple quiz in terminal. I used simple concept:
-   > Class
-   > Loop
-   > Function (def)
-   > Array
-   > Object
+   - [X] Class
+   - [X] Loop
+   - [X] Function (def)
+   - [X] Array
+   - [X] Object
